@@ -12,7 +12,7 @@ please if you want to do this yourself be sure to apply the sleep time of at lea
 glitched images, uncanny images and images of children are removed, out of 1000 images there is 581 images left which is about 58% good images which i find a very good result
 
 ## How to download?
-either use the auto generated [zip file](https://github.com/junguler/TPDE_my_picks/archive/refs/heads/main.zip) or run a git clone
+either use the auto generated [zip file](https://github.com/junguler/TPDNE_example_images/archive/refs/heads/main.zip) or run a git clone
 ```
-git clone https://github.com/junguler/TPDE_my_picks.git
+git clone https://github.com/junguler/TPDNE_example_images.git
 ```
